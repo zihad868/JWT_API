@@ -1,0 +1,3 @@
+{
+  "error": "(sqlite3.IntegrityError) UNIQUE constraint failed: uses.email\n[SQL: INSERT INTO uses (public_id, email, password) VALUES (?, ?, ?)]\n[parameters: ('57382130-1caf-4f60-8ee2-691552247ad0', 'zihad@gmail.com', 'sha256$5izIs7WrFmRpCY25$f6d43d1dcfb47402d7015ccfeda9ef1703daf82d50258784f94390ec2812bc72')]\n(Background on this error at: https://sqlalche.me/e/14/gkpj)"
+}
